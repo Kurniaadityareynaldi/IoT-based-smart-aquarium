@@ -1,5 +1,5 @@
-Smart Aquarium Prototype for Freshwater Ornamental Fish Using NodeMCU with IoT-Based Control
-
+**Smart Aquarium Prototype for Freshwater Ornamental Fish Using NodeMCU with IoT-Based Control
+**
 This GitHub repository showcases a final project from the Electrical Engineering Department, Universitas Gunadarma. The project focuses on the development of an IoT-based smart aquarium designed to simplify the maintenance and care of freshwater ornamental fish. By leveraging Internet of Things (IoT) technology, this smart aquarium automates water temperature control, lighting adjustments, and fish feeding.
 
 Key features of the system include:
